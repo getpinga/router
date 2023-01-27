@@ -1,17 +1,17 @@
-# PHP-Router
+# Pinga Router
 
 Router for PHP. Simple, lightweight and convenient.
 
 ## Requirements
 
- * PHP 5.6.0+
+ * PHP 8.1.0+
 
 ## Installation
 
  1. Include the library via Composer [[?]](https://github.com/delight-im/Knowledge/blob/master/Composer%20(PHP).md):
 
     ```
-    $ composer require delight-im/router
+    $ composer require pinga/router
     ```
 
  1. Include the Composer autoloader:

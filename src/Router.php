@@ -1,12 +1,15 @@
 <?php
 
-/*
- * PHP-Router (https://github.com/delight-im/PHP-Router)
- * Copyright (c) delight.im (https://www.delight.im/)
- * Licensed under the MIT License (https://opensource.org/licenses/MIT)
+/**
+ * Pinga Router
+ *
+ * Written in 2023 by Taras Kondratyuk (https://getpinga.com)
+ * Based on PHP-Router (https://github.com/delight-im/PHP-Router) by delight.im (https://www.delight.im/)
+ *
+ * @license MIT
  */
 
-namespace Delight\Router;
+namespace Pinga\Router;
 
 require __DIR__.'/Path.php';
 require __DIR__.'/Uri.php';
